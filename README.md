@@ -1,8 +1,6 @@
-# Paul Yun
+# `Paul Yun`
 
-paul.a.yun@gmail.com | <a href="https://cal.com/paulyun/meet" target="_blank">schedule a call with me</a> | Los Angeles, CA
-
----
+paul.a.yun@gmail.com | [schedule a call with me](https://cal.com/paulyun/meet) | Los Angeles, CA
 
 > **TL;DR**
 >
