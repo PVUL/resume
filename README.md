@@ -14,7 +14,7 @@ I'm Korean American, from Philadelphia, and I grew up in the 80's. I spent most 
 
 ### Interests:
 
-Practical use-cases for DAOs (Decentralized Autonomous Organizations), lifecycle of data (posthumous), mental well-being, 2nd brain PKMs, biomimetics, objective personality typing, generative art, electric skateboards, Rust, Typescript
+Practical use-cases for DAOs (Decentralized Autonomous Organizations), lifecycle of data (posthumous), mental well-being, Second Brain PKMS (Personal Knowledge Management Systems), biomimetics, objective personality typing, generative art, electric skateboards, Rust, Typescript
 
 ### My workstyle:
 
