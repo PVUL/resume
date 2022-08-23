@@ -1,14 +1,14 @@
 # Paul Yun
 
-paul.a.yun@gmail.com | [schedule a call with me](https://cal.com/paulyun/meet) | Los Angeles, CA
+paul.a.yun@gmail.com | <a href="https://cal.com/paulyun/meet" target="_blank">schedule a call with me</a> | Los Angeles, CA
 
-
+---
 
 > **TL;DR**
 >
 > Paul is a multi-disciplinary engineer with entrepreneur spirit, who has been working for 10+ years with large companies like Wayfair, American Standard, and Target, and several scrappy startups too. He cares about using technology to build community, culture, and to help save the environment.
 
-
+---
 
 ### Interests:
 
@@ -20,7 +20,7 @@ Practical use-cases for DAOs (Decentralized Autonomous Organizations), lifecycle
 
 I prefer asynchronous collaboration and working remotely. I am very upfront and I take pride in delivering quality work. Sometimes, my dedication to finish projects drains me, and burns me out. I say this in hopes to find a team that values each team member as a human being, so they can have my back when I need it most.
 
-
+---
 
 ## Current Projects
 
@@ -28,7 +28,7 @@ ASYLM Collective is an artist collective that I am working on with several engin
 
 _Technologies: Typescript, NextJS, TailwindCSS, Sanity.io, Thirdweb, P5.js, MDX_
 
-
+---
 
 ## Past Work
 
@@ -44,7 +44,7 @@ In 2020, I started teaching part-time at [Nucamp](https://www.nucamp.co/), an on
 
 *Technologies: React, HTML, CSS, Javascript, Bootstrap*
 
-
+---
 
 ### 2019-2020 | [Almanac](https://almanac.io/)
 
@@ -52,7 +52,7 @@ In 2019, I was the first Fullstack Engineer hired at Almanac. Almanac is focused
 
 *Technologies: Typescript, React, Ruby, Rails, Redis, PostgreSQL, Algolia, AWS, Cloudinary API, Heroku*
 
-
+---
 
 ### 2016-2019 | [Wayfair](https://www.wayfair.com/)
 
@@ -64,11 +64,11 @@ I trained junior engineers, helped interview candidates, mentored interns, and g
 
 _Technologies: PHP, React, GraphQL, GCP, Python, Django, SQL Server, Redis, RabbitMQ, NodeJS, Unity, C#, Docker, SASS, Jenkins, Solidworks, 3d printing, Photogrammetry_
 
-
+---
 
 ### 2015-2016 | Coding bootcamp + a few startups
 
-In 2015, I attended a coding bootcamp in Boston called Launch Academy, where I learned Ruby on Rails, Javascript, and PostgreSQL. It felt like 2 years of knowledge packed into 20 weeks. But I knew that's where I had to be, because I was determined based on [my hackathon experience](#2012-2014-|-Hackathons-and-my-failed-startup) a few years prior. 
+In 2015, I attended a coding bootcamp in Boston called Launch Academy, where I learned Ruby on Rails, Javascript, and PostgreSQL. It felt like 2 years of knowledge packed into 20 weeks. But I knew that's where I had to be, because I was determined based on [my hackathon experience](#2012-2014--my-failed-startup--winning-a-hackathon) a few years prior. 
 
 
 
@@ -76,7 +76,7 @@ After I finished the bootcamp, I worked out of the coworking space, Wework, and 
 
 *Technologies: Ruby, Rails, PostgreSQL, Javascript, JQuery, CSS, Heroku, Stripe API, Vimeo API*
 
-
+---
 
 ### 2014-2015 | Hardware engineering
 
@@ -88,7 +88,7 @@ In late 2014, I eventually left Padloc and joined a similar sounding startup cal
 
 _Technologies: Solidworks, Illustrator, Photoshop, Indesign, 3d printing_
 
-
+---
 
 ### 2012-2014 | My (failed) startup + winning a hackathon
 
@@ -100,7 +100,7 @@ _Technologies: Solidworks, Illustrator, Photoshop, 3d printing_
 
 In 2013, I attended my first hackathon, it was the [NY Fashion Week Hackathon](https://www.gettyimages.com/detail/news-photo/founders-of-swatchit-paul-yun-jackson-lin-ramzi-abdoch-news-photo/161700364). I designed the UX for my team's project, as the Product Designer on the team. Our team ended up winning the top prize of $10k, and we even got to meet the founder of Foursquare! However, the developers on the team didn't believe that we could turn it into a business, so it died there. I knew from that moment, that I needed to become a developer one day.
 
-
+---
 
 ### 2010-2012 | Designing ergonomics
 
@@ -108,7 +108,7 @@ In 2010, I originally worked at Ergotech in Westchester, NY, as a Freelance Prod
 
 _Technologies: Solidworks, Illustrator, Photoshop_
 
-
+---
 
 ### 2006-2009 | My first gigs
 
@@ -120,7 +120,7 @@ In 2007, my first fulltime job was at [American Standard](https://www.americanst
 
 _Technologies: Solidworks, Pro/Engineer, AutoCAD, ANSYS_
 
-
+---
 
 ### 2003-2007 | Education
 
