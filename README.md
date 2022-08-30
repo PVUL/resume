@@ -4,7 +4,7 @@
 
 <br>
 
-> **TL;DR**
+> `TL;DR`
 >
 > Paul is a senior software engineer with entrepreneur spirit, who has been working for 10+ years with large companies like Wayfair, American Standard, and Target, as well as several startups. He cares about using technology to build community, culture, and a more sustainable environment.
 
