@@ -8,10 +8,6 @@
 >
 > Paul is a senior software engineer with entrepreneur spirit, who has been working for 10+ years with large companies like Wayfair, American Standard, and Target, as well as several startups. He cares about using technology to build community, culture, and a more sustainable environment.
 
-| asdf | qwer  |
-| ---- | ----- |
-| test | test2 |
-
 ### _`About me:`_
 
 I'm Korean American, from Philadelphia, and I grew up in the 80's. I spent most of my life in the east coast of the US- Philly, New York, and Boston. Now, I'm based out of LA (the winters turned me!).
