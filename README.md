@@ -11,7 +11,7 @@
 ### _`Skills:`_
 
 |                          | Technologies                                            |
-| -----------------------: | ------------------------------------------------------- |
+| -----------------------: | :------------------------------------------------------ |
 |            **Languages** | Typescript, Javascript, Ruby, PHP, Python, C#, SCSS/CSS |
 | **Libraries/Frameworks** | NextJS, React, Rails, TailwindCSS, P5.js                |
 |            **Databases** | PosgreSQL, SQL Server, GraphQL, Redis, Algolia          |
