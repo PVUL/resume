@@ -2,13 +2,11 @@
 
 [schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | Los Angeles, CA
 
+<br>
+
 > **TL;DR**
 >
 > Paul is a senior software engineer with entrepreneur spirit, who has been working for 10+ years with large companies like Wayfair, American Standard, and Target, as well as several startups. He cares about using technology to build community, culture, and a more sustainable environment.
-
-<br>
-
----
 
 <br>
 
@@ -28,9 +26,7 @@ Practical use-cases for DAOs (Decentralized Autonomous Organizations), lifecycle
 
 ---
 
-<br>
-
-## **Current Work**
+# **_Current Work_**
 
 <br>
 
@@ -46,9 +42,7 @@ _Technologies: Typescript, NextJS, TailwindCSS, Sanity.io, Thirdweb, P5.js, MDX_
 
 ---
 
-<br>
-
-## **Past Work**
+# **_Past Work_**
 
 <br>
 
@@ -77,8 +71,6 @@ _Technologies: React, HTML, CSS, Javascript, Bootstrap_
 <br>
 
 ---
-
-<br>
 
 ## 2016-2020: _Working at tech companies_
 
@@ -110,8 +102,6 @@ _Technologies: PHP, React, GraphQL, GCP, Python, Django, SQL Server, Redis, Rabb
 
 ---
 
-<br>
-
 ## 2015-2016: _Starting my coding journey_
 
 <br>
@@ -137,8 +127,6 @@ _Technologies: Ruby, Rails, PostgreSQL, Javascript, JQuery, CSS/Sass, Git, RSpec
 <br>
 
 ---
-
-<br>
 
 ## 2014-2016: _Hardware engineering_
 
@@ -166,8 +154,6 @@ _Technologies: Solidworks, Photoshop, 3d printing_
 
 ---
 
-<br>
-
 ## 2012-2014: _My (failed) startup + winning a hackathon_
 
 <br>
@@ -192,8 +178,6 @@ Technologies: Illustrator, Photoshop
 
 ---
 
-<br>
-
 ## 2010-2012: _Designing ergonomics_
 
 <br>
@@ -209,8 +193,6 @@ _Technologies: Solidworks, Illustrator, Photoshop_
 <br>
 
 ---
-
-<br>
 
 ## 2006-2009: _My first gigs_
 
@@ -237,8 +219,6 @@ _Technologies: Solidworks_
 <br>
 
 ---
-
-<br>
 
 ## 2003-2007: _Education_
 
