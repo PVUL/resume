@@ -8,8 +8,6 @@
 >
 > Paul is a senior software engineer with entrepreneur spirit, who has been working for 10+ years with large companies like Wayfair, American Standard, and Target, as well as several startups. He cares about using technology to build community, culture, and a more sustainable environment.
 
-<br>
-
 ### _`About me:`_
 
 I'm Korean American, from Philadelphia, and I grew up in the 80's. I spent most of my life in the east coast of the US- Philly, New York, and Boston. Now, I'm based out of LA (the winters turned me!).
@@ -120,7 +118,7 @@ _Technologies: Ruby, Rails, PostgreSQL, Javascript, JQuery, CSS, Heroku, Stripe 
 
 [Launch Academy](https://launchacademy.com/) ∙ Boston, MA
 
-In 2015, I attended a coding bootcamp called Launch Academy where I learned Ruby on Rails, Javascript, and PostgreSQL. I collaborated with other developers through pair programming to create a restaurant review site, and used Trello to implement Agile methodologies to deliver the product on time. It felt like 2 years of knowledge packed into 20 weeks, but I knew that's where I had to be because I was determined based on [my hackathon experience](#my-first-hackathon,-feb-2013) a few years prior.
+In 2015, I attended a coding bootcamp called Launch Academy where I learned Ruby on Rails, Javascript, and PostgreSQL. I collaborated with other developers through pair programming to create a restaurant review site, and used Trello to implement Agile methodologies to deliver the product on time. It felt like 2 years of knowledge packed into 20 weeks, but I knew that's where I had to be because I was determined based on [my hackathon experience](#my-first-hackathon-feb-2013) a few years prior.
 
 _Technologies: Ruby, Rails, PostgreSQL, Javascript, JQuery, CSS/Sass, Git, RSpec, Capybara_
 
