@@ -12,7 +12,7 @@
 
 ### _`Skills:`_
 
-| Frontend   |       |
+|            |       |
 | ---------- | ----- |
 | Javscript  | ●●●●● |
 | React      | ●●●●● |
