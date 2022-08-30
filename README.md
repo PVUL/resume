@@ -1,6 +1,6 @@
 # `Paul Yun`
 
-[schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | Los Angeles, CA
+[schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | made with <3 from Los Angeles, CA
 
 <br>
 
@@ -10,13 +10,13 @@
 
 ### _`Skills:`_
 
-| `Frontend` |       |     | `Backend` |       |
-| ---------- | ----- | --- | --------- | ----- |
-| Javscript  | ●●●●● |     | Ruby      | ●●●●● |
-| React      | ●●●●● |     | PHP       | ●●●●● |
-| Typescript | ●●●●○ |     | SQL       | ●●●●● |
-
-<br>
+|                          | Technologies                                            |
+| -----------------------: | ------------------------------------------------------- |
+|            **Languages** | Typescript, Javascript, Ruby, PHP, Python, C#, SCSS/CSS |
+| **Libraries/Frameworks** | NextJS, React, Rails, TailwindCSS, P5.js                |
+|            **Databases** | PosgreSQL, SQL Server, GraphQL, Redis, Algolia          |
+|               **DevOps** | AWS, GCP, Heroku, Vercel, Netlify                       |
+|            **Softwares** | Unity, Solidworks, Photoshop, Illustrator               |
 
 ### _`About me:`_
 
@@ -28,7 +28,7 @@ I work best with asynchronous collaboration and working remotely. I am very upfr
 
 ### _`Interests:`_
 
-Practical use-cases for DAOs (Decentralized Autonomous Organizations), lifecycle of data (posthumous), mental well-being, second brain PKMS (Personal Knowledge Management Systems), biomimetics, objective personality typing, generative art, electric skateboards, Rust, Typescript
+Practical use-cases for DAOs (Decentralized Autonomous Organizations), lifecycle of data (posthumous), mental well-being, second brain PKMS (Personal Knowledge Management Systems), biomimetics, objective personality typing, generative art, electric skateboards, 3d printing, Rust, Typescript
 
 <br>
 
@@ -104,7 +104,7 @@ I then joined the Next team (Wayfair R&D), where our goal was to create the next
 
 I was the head organizer of the company hackathon [WayfairHacks](https://www.aboutwayfair.com/culture/hacker-culture-at-wayfair) for 2 years- coordinating workshops, volunteers, and logistics for 200+ participants, as well as involving the company founders and C-level executives. I also trained junior engineers, interviewed candidates, mentored interns, performed code reviews, and gave talks at college hackathons to promote Wayfair's 3d model API.
 
-_Technologies: PHP, React, GraphQL, GCP, Python, Django, SQL Server, Redis, RabbitMQ, NodeJS, Unity, C#, Docker, SASS, Jenkins, Solidworks, 3d printing, Photogrammetry_
+_Technologies: PHP, React, GraphQL, GCP, Python, Django, SCSS, SQL Server, Redis, RabbitMQ, NodeJS, Unity, C#, Docker, Jenkins, Datadog, Elasticsearch, Grafana, Solidworks, 3d printing, Photogrammetry_
 
 <br>
 
@@ -130,7 +130,7 @@ _Technologies: Ruby, Rails, PostgreSQL, Javascript, JQuery, CSS, Heroku, Stripe 
 
 In 2015, I attended a coding bootcamp called Launch Academy where I learned Ruby on Rails, Javascript, and PostgreSQL. I collaborated with other developers through pair programming to create a restaurant review site, and used Trello to implement Agile methodologies to deliver the product on time. It felt like 2 years of knowledge packed into 20 weeks, but I knew that's where I had to be because I was determined based on [my hackathon experience](#my-first-hackathon-feb-2013) a few years prior.
 
-_Technologies: Ruby, Rails, PostgreSQL, Javascript, JQuery, CSS/Sass, Git, RSpec, Capybara_
+_Technologies: Ruby, Rails, PostgreSQL, Javascript, JQuery, CSS, Git, RSpec, Capybara_
 
 <br>
 
