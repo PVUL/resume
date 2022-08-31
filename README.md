@@ -1,8 +1,6 @@
 # `Paul Yun`
 
-[schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | made with <3 from Los Angeles, CA
-
-<br>
+[schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | Los Angeles, CA
 
 ### _`TL;DR`_
 
@@ -20,7 +18,7 @@
 
 ### _`About me`_
 
-I'm Korean American, grew up in the 80's, and spent most of my life in the east coast- Philly, New York, and Boston. Now, I'm based out of LA (the winters turned me!).
+I'm Korean American, grew up in the 80's, and spent most of my life in the east coast- Philly, NYC, and Boston. Currently based out of LA (the winters turned me!).
 
 ### _`Workstyle`_
 
@@ -237,3 +235,5 @@ _Technologies: Solidworks_
 **[Rensselaer Polytechnic Institue](https://rpi.edu/)** ∙ Troy, NY
 
 In 2007, I graduated from Rensselaer Polytechnic Institute with a double major in Mechanical Engineering and Design, Innovation & Society, as a part of the Product Design and Innovation Program.
+
+---
