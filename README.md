@@ -8,13 +8,13 @@
 
 ### _`Skills`_
 
-|                          | Technologies                                            |
-| -----------------------: | :------------------------------------------------------ |
-|            **Languages** | Typescript, Javascript, Ruby, PHP, Python, C#, SCSS/CSS |
-| **Libraries/Frameworks** | NextJS, React, Rails, TailwindCSS, P5.js                |
-|            **Databases** | PosgreSQL, SQL Server, GraphQL, Redis, Algolia          |
-|               **DevOps** | AWS, GCP, Heroku, Vercel, Netlify                       |
-|            **Softwares** | Unity, Solidworks, Photoshop, Illustrator               |
+|                          | Technologies                                               |
+| -----------------------: | :--------------------------------------------------------- |
+|            **Languages** | Typescript, Javascript, Ruby, PHP, Python, C#, SCSS/CSS    |
+| **Libraries/Frameworks** | NextJS, React, Rails, TailwindCSS, P5.js                   |
+|            **Databases** | PosgreSQL, SQL Server, GraphQL, Redis, Algolia             |
+|               **DevOps** | AWS, GCP, Heroku, Vercel, Netlify                          |
+|            **Softwares** | Unity, Solidworks, Photoshop, Illustrator, Figma, Invision |
 
 ### _`About me`_
 
