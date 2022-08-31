@@ -236,4 +236,6 @@ _Technologies: Solidworks_
 
 In 2007, I graduated from Rensselaer Polytechnic Institute with a double major in Mechanical Engineering and Design, Innovation & Society, as a part of the Product Design and Innovation Program.
 
+<br>
+
 ---
