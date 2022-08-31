@@ -4,8 +4,8 @@
 
 <br>
 
-> `TL;DR`
->
+### _`TL;DR`_
+
 > Paul is a senior software engineer with entrepreneur spirit, who has been working for 10+ years with large companies like Wayfair, American Standard, and Target, as well as several startups. He cares about using technology to build community, culture, and a more sustainable environment.
 
 ### _`Skills`_
@@ -20,15 +20,15 @@
 
 ### _`About me`_
 
-I'm Korean American, from Philadelphia, and I grew up in the 80's. I spent most of my life in the east coast of the US- Philly, New York, and Boston. Now, I'm based out of LA (the winters turned me!).
+I'm Korean American, grew up in the 80's, and spent most of my life in the east coast- Philly, New York, and Boston. Now, I'm based out of LA (the winters turned me!).
 
 ### _`Workstyle`_
 
-I work best with asynchronous collaboration and working remotely. I am very upfront and I take pride in delivering quality work. I have strong opinions that are loosely held. I enjoy learning new things, as well as teaching and mentoring. I hope to work with smart people who are also empathetic of each other.
+I work best with asynchronous collaboration and working remotely. I have strong opinions, loosely held, and I enjoy learning new things, as well as teaching and mentoring. I hope to work with smart colleagues who are also empathetic of each other.
 
 ### _`Interests`_
 
-Practical use-cases for DAOs (Decentralized Autonomous Organizations), lifecycle of data (posthumous), mental well-being, second brain PKMS (Personal Knowledge Management Systems), biomimetics, objective personality typing, generative art, electric skateboards, 3d printing, Rust, Typescript
+Practical use-cases for DAOs (Decentralized Autonomous Organizations), lifecycle of data (posthumous), mental well-being, second brain PKMS (Personal Knowledge Management Systems), biomimetics, objective personality typing, generative art, skateboarding, 3d printing, Rust, Typescript
 
 <br>
 
