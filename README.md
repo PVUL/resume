@@ -138,7 +138,7 @@ _Technologies: Ruby, Rails, PostgreSQL, Javascript, JQuery, CSS, Git, RSpec, Cap
 
 <br>
 
-### **Packaging Engineer**, Apr 2015 - May 2016
+### **Senior Packaging Engineer**, Apr 2015 - May 2016
 
 [Pavlok](https://pavlok.com/) ∙ Boston, MA
 
