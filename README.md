@@ -1,8 +1,6 @@
 # `Paul Yun`
 
-![views counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/527650736/badge.svg)
-
-[schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | Los Angeles, CA
+[![Image of https://github.com/PVUL/repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/PVUL/repo-views-counter/blob/master/readme/527650736/year.md) | [schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | Los Angeles, CA
 
 ### _`TL;DR`_
 
