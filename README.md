@@ -1,5 +1,7 @@
 # `Paul Yun`
 
+![views counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/527650736/badge.svg)
+
 [schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | Los Angeles, CA
 
 ### _`TL;DR`_
