@@ -1,6 +1,6 @@
 # `Paul Yun`
 
-[![Image of https://github.com/PVUL/repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/PVUL/repo-views-counter/blob/master/readme/527650736/year.md) | [schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | Los Angeles, CA
+[schedule a call](https://cal.com/paulyun/meet) | [me in real life](https://www.instagram.com/paulyuntv/) | pvul@duck.com | Los Angeles, CA
 
 ### _`TL;DR`_
 
@@ -239,3 +239,5 @@ In 2007, I graduated from Rensselaer Polytechnic Institute with a double major i
 <br>
 
 ---
+
+[![Image of https://github.com/PVUL/repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/PVUL/repo-views-counter/blob/master/readme/527650736/year.md)
